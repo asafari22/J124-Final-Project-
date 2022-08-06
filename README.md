@@ -18,6 +18,7 @@
 #### Step-by-step answer:
 
   1. Create a pivot table and add _'Region'_ to Rows and _'Monthly Payment Incl.Taxes and Insurance to Value'_
+  ![Q1 Pivot table](https://github.com/asafari22/J124-Final-Project-/blob/ecce057453521acf98f5bb945edee188555ba074/Q1%20Screen%20shot%20pivot%20table%20.png) 
  
  
   
