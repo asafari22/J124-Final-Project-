@@ -26,7 +26,8 @@ To find the region with the highest monthly payment including taxes and insuranc
  ![Q1 Pivot table B](https://github.com/asafari22/J124-Final-Project-/blob/fb43308d9cb452383a96c5ae4fdeb60ce5bf9aa3/Q1%20-%20Pivot%20table%20B%20.png)
  #### As shown, SF BAY has the highest monthly payment including taxes and insurnaces with an average of $5,673.
  
- ![Q1 Pivot table C](
+ ![Q1 Pivot table C](https://github.com/asafari22/J124-Final-Project-/blob/c2dad5840e53b540dbbb4cd5d19862546a78598c/Q1%20-%20Pivot%20table%20B%20.png)
+ 
   
 
 
