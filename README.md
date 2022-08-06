@@ -20,7 +20,7 @@
 To find the region with the highest monthly payment including taxes and insurances:
   1. Create a pivot table and add 'Region' to **Rows** and 'Monthly Payment Incl.Taxes and Insurance' to **Value**.
   ![Q1 Pivot table](https://github.com/asafari22/J124-Final-Project-/blob/ecce057453521acf98f5bb945edee188555ba074/Q1%20Screen%20shot%20pivot%20table%20.png) 
- 2. In **Rows**, sort the 'Region' by 'Avergage Monthly Payment Incl. Taxes and Insurance' 
+ 2. In **Rows**, sort the 'Region' by **'Avergage Monthly Payment Incl. Taxes and Insurance'** 
  3. In **Values**, summarize the 'Monthly Payment Incl. Taxes and Insurance' to **AVERAGE** 
  
  ![Q1 Pivot table B](https://github.com/asafari22/J124-Final-Project-/blob/fb43308d9cb452383a96c5ae4fdeb60ce5bf9aa3/Q1%20-%20Pivot%20table%20B%20.png)
