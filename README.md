@@ -31,16 +31,13 @@ To find the region with the highest monthly payment including taxes and insuranc
  To find the region with the lowest monthly payment including taxes and insurances, follow the above steps from 1 to 3.
  #### As shown, the region of Farth North has the lowest monthly payment including taxes and insurnaces with an average of $1,507.
  
- ![Q1 Pivot table D](
+ ![Q1 Pivot table D](https://github.com/asafari22/J124-Final-Project-/blob/639aa5c063f0c8f2d388b50d6b012868a7cccf0e/Q1-%20Pivot%20table%20D.png)
  
-  
-
-
-
-
-
+ 
 #### _Question #2: Which region or county has the highest median home price? Which has the lowest?_
 #### Step-by-step answer:
+
+
 
 
 
