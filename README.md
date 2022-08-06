@@ -17,9 +17,9 @@
 #### _Question #1: Which region or county requires the highest monthly payment including taxes and insurance? Which has the lowest?_
 #### Step-by-step answer:
 
-  1. Create a pivot table and add _'Region'_ to Rows and _'Monthly Payment Incl.Taxes and Insurance to Value'_
+  1. Create a pivot table and add 'Region' to **Rows** and 'Monthly Payment Incl.Taxes and Insurance' to **Value**
   ![Q1 Pivot table](https://github.com/asafari22/J124-Final-Project-/blob/ecce057453521acf98f5bb945edee188555ba074/Q1%20Screen%20shot%20pivot%20table%20.png) 
- 
+ 2. Summarize the 'Monthly Payment Incl. Taxes and i
  
   
 
