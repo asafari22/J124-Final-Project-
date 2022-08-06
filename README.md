@@ -18,7 +18,7 @@
 #### Step-by-step answer:
 
   1. Create a pivot table and add _'Region'_ to Rows and _'Monthly Payment Incl.Taxes and Insurance to Value'_
- ![Q1 Pivot Table Screen shot)(Q1 Screen shot pivot table .png)
+ ![Q1 Pivot Table Screen shot](Q1 Screen shot pivot table .png)
  
  
   
