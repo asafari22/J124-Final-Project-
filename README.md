@@ -127,6 +127,9 @@ It is clear that the median home price for first time buyers in California is **
 
 It should look like this:
 
+![Q5 screen shot B](https://github.com/asafari22/J124-Final-Project-/blob/d4a935355944ed45a0df28d2b65cec5f5f4c8916/Q5%20screen%20shot%20B.png)
+![Q5 screen shot C](
+
 
 
 
