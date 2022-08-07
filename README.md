@@ -189,10 +189,7 @@ It is clear that the median home price for first time buyers in California is **
 The following is a map of the ["Median Home Price Per Region for First Time Home Buyers in California"]
 
 
-![Data wrapper map](<iframe title="Median Home Price Per Region for First Time Home Buyers in California " aria-label="Map" id="datawrapper-chart-piHjx" src="https://datawrapper.dwcdn.net/piHjx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="891"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>)
-
-
+![Data wrapper map](
 
 
 
