@@ -8,10 +8,14 @@ Housing is becoming more and more expensive. In California, one of the most desi
 
 ## Sourcing
 
+#### Potential Interview Contacts:
 
+1. Christine Dosen at Coldwell Banker Best Realty 
+  * Email: 
+  * Phone Number:
+  * As one of the top Real Estate Agents in California for numerous years, I believe she would be a great asset to have a conversation about the real estate market; what has changed in the past few years, different types of housing options, affordability, the direction of the market, etc.
 
-
-
+2. Fariba Fini 
 
 
 ## Data Analysis Process 
