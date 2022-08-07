@@ -34,8 +34,17 @@ To find the region with the highest monthly payment including taxes and insuranc
  ![Q1 Pivot table D](https://github.com/asafari22/J124-Final-Project-/blob/639aa5c063f0c8f2d388b50d6b012868a7cccf0e/Q1-%20Pivot%20table%20D.png)
  
  
-#### _Question #2: Which region or county has the highest median home price? Which has the lowest?_
+#### _Question #2: In each each region, what is the highest 'median home price' in that county? What is the lowest?
 #### Step-by-step answer:
+
+To find the highest median home price in each county of that region:
+  1. Create a pivot table: first add 'Region' and then 'County' to **Rows**. Add 'Median Home Price' to **Values**
+  2. In order to find the most expensive county of that region with the corresponding median home price, change the 'Order' to 'Descending' and sort by 'AVERAGE of Median Home Price' for 'Region'. Follow the same steps for 'County'.
+  3. In values, make sure that the 'Median Home Price' is summmarized by the 'AVERAGE'. 
+
+![Q2 Pivot table A](
+
+
 
 
 
