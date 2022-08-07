@@ -85,7 +85,10 @@ From the most expensive to least expensive region: **SF Bay**, **Central Coast**
 * 'Region' and 'County' to **Rows**. Order both in 'Ascending' order and sort by 'Average of Minimum Qualifiying Income' for both 'Region' and 'County'.
 2.  Add the 'Minimum Qualifiying Income' to **Values** and summarize by 'AVERAGE'
 3. Add the 'Minimum Qualifying Income' to **Filters** and change the status to 'Filtered by condition and values'
-4.  Select **'Greater than'** and input 100,000 as the value. 
+4.  Select **'Greater than'** and input 100,000 as the value.
+
+![Q3 Pivot table A](https://github.com/asafari22/J124-Final-Project-/blob/0c18b944d697b7e2697eacf948759ded68048fbf/Q3%20-%20pivot%20table%20A.png)
+![Q3 Pivot table B](
 
 
 
