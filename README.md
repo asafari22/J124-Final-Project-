@@ -8,7 +8,7 @@ Housing is becoming more and more expensive. In California, one of the most desi
 
 ## Additional Sources:
 
-1.
+1. For the first additional source, the California Association of Realtors, also has data on [Housing Affordability by Ethnicity in California](https://www.car.org/marketdata/data/haitraditional/haiethnicity)
 
 
 
