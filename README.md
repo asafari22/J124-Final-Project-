@@ -112,10 +112,11 @@ To find the county/region that requires the highest qualifiying income, simply c
 #### _Question #5: What percentage of Californian's can afford a home that is OVER the average cost as first time home buyers?
 #### Step-by-step answer:
   
-  1. To calculate average of 'Median Home Price', simply select the entire column and use the filter element to find the average:
+  1. To calculate average of 'Median Home Price', simply select the entire column and use the **'filter'** element to find the average:
 
-![Q5 screen shot A](
+![Q5 screen shot A](https://github.com/asafari22/J124-Final-Project-/blob/713d55f037f8d7190775219db6d3e3c409fea502/Q5%20screenshot%20A.png)
 
+It is clear that the median home price for first time buyers in California is **$608,818**.
 
 
 
