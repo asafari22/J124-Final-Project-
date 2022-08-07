@@ -78,8 +78,9 @@ From the most expensive to least expensive region: **SF Bay**, **Central Coast**
 * In SF Bay, Solano is the least expensive county with a median home price of **$510,000.**
 
 
-#### _Question #3: Which counties or regions have a minimum qualifying income over $100,000?_
+#### _Question #3: Which counties/regions have a minimum qualifying income over $100,000?_
 #### Step-by-step answer:
+
 
 
 
