@@ -109,7 +109,7 @@ To find the county/region that requires the highest qualifiying income, simply c
 
 
 
-#### _Question #5: What percentage of Californian's can afford a home that is OVER the average cost as first time home buyers?
+#### _Question #5: What percentage of Californian's in each region can afford a home that is OVER the average cost as first time home buyers?
 #### Step-by-step answer:
   
   1. To calculate average of 'Median Home Price', simply select the entire column and use the **'filter'** element to find the average:
@@ -117,6 +117,17 @@ To find the county/region that requires the highest qualifiying income, simply c
 ![Q5 screen shot A](https://github.com/asafari22/J124-Final-Project-/blob/713d55f037f8d7190775219db6d3e3c409fea502/Q5%20screenshot%20A.png)
 
 It is clear that the median home price for first time buyers in California is **$608,818**.
+
+#### Follow these steps to find out the percentage of Californian's in each region that can afford a home that is OVER the average cost for a first time home buyer at $608,818:
+  1. Create a pivot table:
+    * Insert 'Region' in **'Rows'** and order by 'Ascending'.
+    * Insert 'Minimum Qualifying Income in **'Rows'** and order by 'Ascending' and sort by 'Minimum Qualifying Income'.
+  2. In **'Values'**, insert 'Median Home Price' and summarize by 'SUM' and show as '% of column'
+  3. In **'Filters'**, insert 'Median Home Price' and change the 'Status' to 'Filter by condition', then select ' Greater than or equal to' and enter the average cost for a first time home buyer in California: **608,818**
+
+It should look like this:
+
+
 
 
 
