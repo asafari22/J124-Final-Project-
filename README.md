@@ -59,7 +59,7 @@ From the most expensive to least expensive region: **SF Bay**, **Central Coast**
 
 ![Q2 pivot table D](https://github.com/asafari22/J124-Final-Project-/blob/56d898a24a2bdc3af1bd40548e08fd1a8f49f00f/Q2%20pivot%20table%20D.png)
 
-To find the lowest median home price in each county of that region, follow the similar steps for highest median home price:
+**To find the lowest median home price in each county of that region, follow the similar steps for highest median home price:**
 1. The pivot table will be the same: first add 'Region' and then 'County' to **Rows**. Add 'Median Home Price' to **Values**
 2. In order to find the most expensive county of that region with the corresponding median home price, change the 'Order' to 'Ascending' and sort by 'AVERAGE of Median Home Price' for 'Region'. Then, follow the same steps for 'County'.
 3.In values, make sure that the 'Median Home Price' is summmarized by the 'AVERAGE'. 
@@ -68,7 +68,14 @@ To find the lowest median home price in each county of that region, follow the s
 
 ![Q2 pivot table E](https://github.com/asafari22/J124-Final-Project-/blob/bcc88eac2e4e594022caf0bb0d96cec354772762/Q2%20pivot%20table%20E.png)
 
-![Q2 pivot table F](
+![Q2 pivot table F](https://github.com/asafari22/J124-Final-Project-/blob/9e3e9b77b155b2c626429119693c71b2bece1cc1/Q2%20pivot%20table%20F.png)
+
+* In Far North, Lassen is the least expensive county with a median home price of **$208,250.**
+* In Central Valley, Kings is the least expensive county with a median home price of **$276,250.**
+* In Other, Lake is the least expensive county with a median home price of **$300,900.**
+* In Southern California, San Bernardino is the least expensive county with a median home price of **$391,000.**
+* On the Central Coast, San Luis Obispo is the least expensive county with a median home price of **$724,410.**
+* In SF Bay, Solano is the least expensive county with a median home price of **$510,000.**
 
 
 
