@@ -88,7 +88,11 @@ From the most expensive to least expensive region: **SF Bay**, **Central Coast**
 4.  Select **'Greater than'** and input 100,000 as the value.
 
 ![Q3 Pivot table A](https://github.com/asafari22/J124-Final-Project-/blob/0c18b944d697b7e2697eacf948759ded68048fbf/Q3%20-%20pivot%20table%20A.png)
-![Q3 Pivot table B](
+![Q3 Pivot table B](https://github.com/asafari22/J124-Final-Project-/blob/01084b26d0cc4c8e2c8abbbaed1fcba8ad6fe8b8/Q3%20pivot%20table%20B.png)
+
+Once those steps have been followed, it should appear as so:
+
+![Q3 Pivot table C](
 
 
 
