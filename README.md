@@ -57,7 +57,8 @@ To find the highest median home price in each county of that region:
 
 ![Q2 pivot table C](https://github.com/asafari22/J124-Final-Project-/blob/8a7d8469fd4fa15e7c9384230b9fbfcf1dcc3c01/Q2%20pivot%20table%20C.png)
 
-![Q2 pivot table D](
+![Q2 pivot table D](https://github.com/asafari22/J124-Final-Project-/blob/56d898a24a2bdc3af1bd40548e08fd1a8f49f00f/Q2%20pivot%20table%20D.png)
+
 
 
 
