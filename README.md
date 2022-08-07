@@ -92,8 +92,15 @@ From the most expensive to least expensive region: **SF Bay**, **Central Coast**
 
 Once those steps have been followed, it should appear as so:
 
-![Q3 Pivot table C](
+![Q3 Pivot table C](https://github.com/asafari22/J124-Final-Project-/blob/01084b26d0cc4c8e2c8abbbaed1fcba8ad6fe8b8/Q3%20pivot%20table%20B.png)
 
+As shown, San Benito, Ventura, San Diego, Orange, Mono, San Luis Obispo, Monterey, Santa Barbara, Santa Cruz, Sonoma, Contra Costa, Napa, Alameda, Marin, San Francisco, Santa Clara, and San Mateo all have minimum qualifiying incomes over $100,000. 
+
+To find the county/region that requires the highest qualifiying income, simply chanfge the order in 'Region' and 'County' to **'Descending'**
+* Now it shows that the 'Region' of **SF Bay**, specifically, **San Mateo** county has the highest qualifying income of **$274,500.**
+
+![Q3 pivot table D](
+![Q3 pivot table E](
 
 
 
