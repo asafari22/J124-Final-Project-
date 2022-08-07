@@ -184,15 +184,9 @@ It is clear that the median home price for first time buyers in California is **
 
 
 
-
-
-
-
-
-
 ## Data Visualization 
 
-
+![Data wrapper map](
 
 
 
