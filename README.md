@@ -78,9 +78,14 @@ From the most expensive to least expensive region: **SF Bay**, **Central Coast**
 * In SF Bay, Solano is the least expensive county with a median home price of **$510,000.**
 
 
-#### _Question #3: Which counties/regions have a minimum qualifying income over $100,000?_
+#### _Question #3: Which counties/regions have a minimum qualifying income over $100,000? Which county requires the higest qualifiying income?_
 #### Step-by-step answer:
 
+1. Create a pivot table: 
+* 'Region' and 'County' to **Rows**. Order both in 'Ascending' order and sort by 'Average of Minimum Qualifiying Income' for both 'Region' and 'County'.
+2.  Add the 'Minimum Qualifiying Income' to **Values** and summarize by 'AVERAGE'
+3. Add the 'Minimum Qualifying Income' to **Filters** and change the status to 'Filtered by condition and values'
+4.  Select **'Greater than'** and input 100,000 as the value. 
 
 
 
