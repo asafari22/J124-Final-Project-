@@ -8,15 +8,23 @@ Housing is becoming more and more expensive. In California, one of the most desi
 
 ## Sourcing
 
+
+
+
+
+
+
 #### Potential Interview Contacts:
 
-1. Christine Dosen at Coldwell Banker Best Realty 
-  * Email: 
-  * Phone Number:
+1. **Christine Dosen at Coldwell Banker Best Realty** 
+  * Email: christine.dosen@coldwellbankerrealestate.com
+  * Phone Number:425-876-3405
   * As one of the top Real Estate Agents in California for numerous years, I believe she would be a great asset to have a conversation about the real estate market; what has changed in the past few years, different types of housing options, affordability, the direction of the market, etc.
 
-2. Fariba Fini 
-
+2. **Alex Kane at Coldwell Banker Best Realty**
+ * Email: 	alex.kane@cbrealty.com
+ * Phone Number: 949-837-5700
+ * As a real estate agent in Orange County for numerous years, Kane could be great to speak to about demographics in Orange County since there is so many cities within it. Getting insight on age of first time home buyers, the average cost of homes in the area, if there is an incline or decline in popularity in the region and how it compares to other popular regions in the state. 
 
 ## Data Analysis Process 
 
