@@ -59,8 +59,14 @@ From the most expensive to least expensive region: **SF Bay**, **Central Coast**
 
 ![Q2 pivot table D](https://github.com/asafari22/J124-Final-Project-/blob/56d898a24a2bdc3af1bd40548e08fd1a8f49f00f/Q2%20pivot%20table%20D.png)
 
+To find the lowest median home price in each county of that region, follow the similar steps for highest median home price:
+1. The pivot table will be the same: first add 'Region' and then 'County' to **Rows**. Add 'Median Home Price' to **Values**
+2. In order to find the most expensive county of that region with the corresponding median home price, change the 'Order' to 'Ascending' and sort by 'AVERAGE of Median Home Price' for 'Region'. Then, follow the same steps for 'County'.
+3.In values, make sure that the 'Median Home Price' is summmarized by the 'AVERAGE'. 
 
+#### Since the pivot table elements are the same, just changing from descending order to ascending order to see what the lowest median home price is in each county/region:
 
+![Q2 pivot table E]( 
 
 
 
