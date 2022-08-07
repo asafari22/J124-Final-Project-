@@ -8,7 +8,7 @@ Housing is becoming more and more expensive. In California, one of the most desi
 
 ## Additional Sources:
 
-1. For the first additional source, the California Association of Realtors, also has data on [Housing Affordability by Ethnicity in California](https://www.car.org/marketdata/data/haitraditional/haiethnicity). This would be a helpful tool to look into deeper and analyze the contrast within each region/county in comparison to the median cost to purchse a home in California. Comparing the ethnic diversity or lack thereof may be helpful for those looking to purchase a home. It is also interesting to look and see what communities are lacking diversity and why that is.
+1. For the first additional source, the California Association of Realtors, also has data on [Housing Affordability by Ethnicity in California](https://www.car.org/marketdata/data/haitraditional/haiethnicity). This would be a helpful tool to look into deeper and analyze the contrast within each region/county in comparison to the median cost to purchse a home in California. Comparing the ethnic diversity or lack thereof may be helpful for those looking to purchase a home. It is also interesting to look and see what communities are lacking diversity and why that is. Looking into what are the most affordable or least affordable, as well as median cost to purchase a home for each ethnic background.
 
 2. For the second addiotional source, 
 
