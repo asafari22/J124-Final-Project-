@@ -100,13 +100,7 @@ To find the county/region that requires the highest qualifiying income, simply c
 * Now it shows that the 'Region' of **SF Bay**, specifically, **San Mateo** county has the highest qualifying income of **$274,500.**
 
 ![Q3 pivot table D](https://github.com/asafari22/J124-Final-Project-/blob/3d7b36ec9fefcc71b490f8e7ccd16cd837b029e2/Q3%20pivot%20table%20D.png)
-![Q3 pivot table E](
-
-
-
-
-
-
+![Q3 pivot table E](https://github.com/asafari22/J124-Final-Project-/blob/e5f5019e666b841dd796da3e4625540680b17c95/Q3%20pivot%20table%20E.png)
 
 
 #### _Question #4: Looking at the data, which region or county has the most expensive homes that require the highest earning income? Which region or county has the lowest?_
