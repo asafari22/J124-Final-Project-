@@ -55,7 +55,9 @@ To find the highest median home price in each county of that region:
 * In Central Valley, San Benito is the most expensive county with an average median home price of $720,380.
 * In Far North, Butte is the most expensive county with an average median home price of $382,500.
 
-![Q2 pivot table C](
+![Q2 pivot table C](https://github.com/asafari22/J124-Final-Project-/blob/8a7d8469fd4fa15e7c9384230b9fbfcf1dcc3c01/Q2%20pivot%20table%20C.png)
+
+![Q2 pivot table D](
 
 
 
