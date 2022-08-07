@@ -103,20 +103,21 @@ To find the county/region that requires the highest qualifiying income, simply c
 ![Q3 pivot table E](https://github.com/asafari22/J124-Final-Project-/blob/e5f5019e666b841dd796da3e4625540680b17c95/Q3%20pivot%20table%20E.png)
 
 
-#### _Question #4: Looking at the data, which region or county has the most expensive homes that require the highest earning income? Which region or county has the lowest?_
+#### _Question #4: What are the top 3 cheapest regions in California to purchase a home with an income under $75,000?
 #### Step-by-step answer:
 
 
 
 
-#### _Question #5: Which county in the S.F Bay Area holds the highest median income? Which county holds the lowest?_
+#### _Question #5: What percentage of Californian's can afford a home that is OVER the average cost as first time home buyers?
 #### Step-by-step answer:
+  
+  1. To calculate average of 'Median Home Price', simply select the entire column and use the filter element to find the average:
+
+![Q5 screen shot A](
 
 
 
-
-#### _Question 6#: Which region or county has the highest minimum qualifying income to purchase a home?Which county has the lowest?_
-#### Step-by-step answer:
 
 
 
