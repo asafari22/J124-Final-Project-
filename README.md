@@ -47,13 +47,15 @@ To find the highest median home price in each county of that region:
 **** Next, looking through the data, it is clear what the highest median home price is in each county/region:
 * From the most expensive to least expensive region:SF Bay, Central Coast, Southern California, Other, Central Valley, and lastly Far North. 
 
-![Q2 pivot table B](
-
-
-
+![Q2 pivot table B](https://github.com/asafari22/J124-Final-Project-/blob/fc6d98357bd5f4a46eca5ee17b39ddaeb89f9644/Q2%20pivot%20table%20B.png)
 * In SF BAY, San Mateo is the most expensive county with an average median home price of $1,865,750.
-* 
+* On the Central Coast, Santa Cruz is the most expexpensive county with an average median home price of $1,156,992.
+* In Southern California, Orange is the most expensive county with an average median home price of $1,865,750.
+* In Other, Mono is the most expensive county with an average median home price of $881,880.
+* In Central Valley, San Benito is the most expensive county with an average median home price of $720,380.
+* In Far North, Butte is the most expensive county with an average median home price of $382,500.
 
+![Q2 pivot table C](
 
 
 
