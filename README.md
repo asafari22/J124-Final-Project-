@@ -125,12 +125,14 @@ It is clear that the median home price for first time buyers in California is **
   2. In **'Values'**, insert 'Median Home Price' and summarize by 'SUM' and show as '% of column'
   3. In **'Filters'**, insert 'Median Home Price' and change the 'Status' to 'Filter by condition', then select ' Greater than or equal to' and enter the average cost for a first time home buyer in California: **608,818**
 
-It should look like this:
+**It should look like this:**
 
 ![Q5 screen shot B](https://github.com/asafari22/J124-Final-Project-/blob/d4a935355944ed45a0df28d2b65cec5f5f4c8916/Q5%20screen%20shot%20B.png)
-![Q5 screen shot C](
+![Q5 screen shot C](https://github.com/asafari22/J124-Final-Project-/blob/21c760e9a962ca769b5f34b04f7b87c1942b86de/Q5%20screen%20shot%20C.png)
 
+**Your chart will look like this:**
 
+![Q5 screen shot D](
 
 
 
