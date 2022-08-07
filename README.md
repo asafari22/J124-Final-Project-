@@ -132,7 +132,14 @@ It is clear that the median home price for first time buyers in California is **
 
 **Your chart will look like this:**
 
-![Q5 screen shot D](
+![Q5 screen shot D](https://github.com/asafari22/J124-Final-Project-/blob/c0c80b50b953266af227960d404384c8a2c0f714/Q5%20screen%20shot%20D.png)
+
+**It is clear that:**
+  * 3.91% of Central Valley region first time home buyers can afford a home over the average cost in California.
+  * 4.79% of Other region first time home buyers can afford a home over the average cost in California.
+  * 17.72% of Southern California region first time home buyers can afford a home over the average cost in California.
+  * 19.81% of the Central Coast region first time home buyers can afford a home over the average cost in California.
+  * 53.77% of the SF Bay region first time home buyers can afford a home over the average cost in California.
 
 
 
