@@ -66,7 +66,9 @@ To find the lowest median home price in each county of that region, follow the s
 
 #### Since the pivot table elements are the same, just changing from descending order to ascending order to see what the lowest median home price is in each county/region:
 
-![Q2 pivot table E]( 
+![Q2 pivot table E](https://github.com/asafari22/J124-Final-Project-/blob/bcc88eac2e4e594022caf0bb0d96cec354772762/Q2%20pivot%20table%20E.png)
+
+![Q2 pivot table F](
 
 
 
