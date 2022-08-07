@@ -99,7 +99,7 @@ As shown, San Benito, Ventura, San Diego, Orange, Mono, San Luis Obispo, Montere
 To find the county/region that requires the highest qualifiying income, simply chanfge the order in 'Region' and 'County' to **'Descending'**
 * Now it shows that the 'Region' of **SF Bay**, specifically, **San Mateo** county has the highest qualifying income of **$274,500.**
 
-![Q3 pivot table D](
+![Q3 pivot table D](https://github.com/asafari22/J124-Final-Project-/blob/3d7b36ec9fefcc71b490f8e7ccd16cd837b029e2/Q3%20pivot%20table%20D.png)
 ![Q3 pivot table E](
 
 
