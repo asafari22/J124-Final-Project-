@@ -143,12 +143,13 @@ To find the county/region that requires the highest qualifiying income, simply c
 
 **Next, in the pivot table, it is clear which regions/counties can afford a home with a qualifiying income greater than or equal to $89,656**
 
-![Q4 screen shot D](
+![Q4 screen shot D](https://github.com/asafari22/J124-Final-Project-/blob/0b5aac22f44fc14a07ee69c7134515574cdeb6ad/Q4%20screen%20shot%20D.png)
 
-
-
-
-
+**Only within the regions of Central Coast, Central Valley, Other, SF Bay, and Southern California can one afford a home greater than or equal to the minimum qualifying income of $89,656 in the state of California. **
+ * Central Coast: San Luis Obispo, Monterey, Santa Barbara, and Santa Cruz
+ * Central Valley: San Benito
+ * SF BAY: Sonoma, Contra Costa, Napa, Alameda, Marin, San Francisco, Santa Clara, and San Mateo
+ * Southern California: Los Angeles, Ventura, San Diego, and Orange
 
 
 #### _Question #5: What percentage of Californian's in each region can afford a home that is OVER the average cost as first time home buyers?_
@@ -184,53 +185,9 @@ It is clear that the median home price for first time buyers in California is **
   * 53.77% of the SF Bay region first time home buyers can afford a home over the average cost in California.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
 ## Data Visualization 
 ----------------------------------------------------------------------------------------------------------------------------------------
 The following is a map of the [Median Home Price Per Region for First Time Home Buyers in California](https://datawrapper.dwcdn.net/piHjx/1/)
 
 ![Data wrapper map](https://github.com/asafari22/J124-Final-Project-/blob/cc307d9bd43aea2502e0e751e941fdfa7978264a/Data%20Wrapper%20Map.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
