@@ -136,6 +136,10 @@ To find the county/region that requires the highest qualifiying income, simply c
 **Next, in order to find out which regions/counties can afford a home with the average qualifying income of $89,656:**
 
 #### Step-by-step answer:
+1. Keep the same steps as above and add 'Minimum Qualifying Income' to **Filters** and change the status to **'Value is greater than or equal to'** and then enter 89,656.
+2. Add 'County' to **Rows**
+
+
 
 
 
