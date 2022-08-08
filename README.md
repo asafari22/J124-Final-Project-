@@ -145,7 +145,7 @@ To find the county/region that requires the highest qualifiying income, simply c
 
 ![Q4 screen shot D](https://github.com/asafari22/J124-Final-Project-/blob/0b5aac22f44fc14a07ee69c7134515574cdeb6ad/Q4%20screen%20shot%20D.png)
 
-**Only within the regions of Central Coast, Central Valley, Other, SF Bay, and Southern California can one afford a home greater than or equal to the minimum qualifying income of $89,656 in the state of California. **
+**Only within the regions of Central Coast, Central Valley, Other, SF Bay, and Southern California can one afford a home greater than or equal to the minimum qualifying income of $89,656 in the state of California.**
  * Central Coast: San Luis Obispo, Monterey, Santa Barbara, and Santa Cruz
  * Central Valley: San Benito
  * SF BAY: Sonoma, Contra Costa, Napa, Alameda, Marin, San Francisco, Santa Clara, and San Mateo
