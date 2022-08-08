@@ -127,7 +127,11 @@ To find the county/region that requires the highest qualifiying income, simply c
  * Add 'Region' to **Rows**
  * Add 'Minimum Qualifying Income' to **Values**
  
- ![Q4 pivot table A](
+ ![Q4 pivot table A](https://github.com/asafari22/J124-Final-Project-/blob/66a4daabaaf3593e3e7387d732399a4142b0c0e3/Q4%20pivot%20table%20A.png)
+ 
+ *It is clear that the average minimum qualifying income for all of California is $89,656.*
+ 
+ ![Q4 pivot table B](
 
 
 
