@@ -136,7 +136,7 @@ To find the county/region that requires the highest qualifiying income, simply c
 **Next, in order to find out which regions/counties can afford a home with the average qualifying income of $89,656:**
 
 #### Step-by-step answer:
-1. Keep the same steps as above and add 'Minimum Qualifying Income' to **Filters** and change the status to **'Value is greater than or equal to'** and then enter 89,656.
+1. Keep the same steps as above and add 'Minimum Qualifying Income' to **Filters** and change the status to **'Value is greater than or equal to'** and then enter **89,656.**
 2. Add 'County' to **Rows**
 
 ![Q4 screen shot C](https://github.com/asafari22/J124-Final-Project-/blob/0da3d49587273edbfa8a15c463889c613383b5ce/Q4%20screen%20shot%20C.png)
@@ -146,10 +146,10 @@ To find the county/region that requires the highest qualifiying income, simply c
 ![Q4 screen shot D](https://github.com/asafari22/J124-Final-Project-/blob/0b5aac22f44fc14a07ee69c7134515574cdeb6ad/Q4%20screen%20shot%20D.png)
 
 **Only within the regions of Central Coast, Central Valley, Other, SF Bay, and Southern California can one afford a home greater than or equal to the minimum qualifying income of $89,656 in the state of California.**
- * Central Coast: San Luis Obispo, Monterey, Santa Barbara, and Santa Cruz
- * Central Valley: San Benito
- * SF BAY: Sonoma, Contra Costa, Napa, Alameda, Marin, San Francisco, Santa Clara, and San Mateo
- * Southern California: Los Angeles, Ventura, San Diego, and Orange
+ * **Central Coast**: San Luis Obispo, Monterey, Santa Barbara, and Santa Cruz
+ * **Central Valley**: San Benito
+ * **SF BAY**: Sonoma, Contra Costa, Napa, Alameda, Marin, San Francisco, Santa Clara, and San Mateo
+ * **Southern California**: Los Angeles, Ventura, San Diego, and Orange
 
 
 #### _Question #5: What percentage of Californian's in each region can afford a home that is OVER the average cost as first time home buyers?_
