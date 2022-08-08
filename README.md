@@ -123,7 +123,11 @@ To find the county/region that requires the highest qualifiying income, simply c
 #### _Question #4: What is the average qualifying income in the state of California? In which regions/counties can one afford a home with the average qualifying income?_
 #### Step-by-step answer:
 
-1. 
+1. Create a pivot table:
+ * Add 'Region' to **Rows**
+ * Add 'Minimum Qualifying Income' to **Values**
+ 
+ ![Q4 pivot table A](
 
 
 
