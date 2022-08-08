@@ -120,7 +120,7 @@ To find the county/region that requires the highest qualifiying income, simply c
 ![Q3 pivot table E](https://github.com/asafari22/J124-Final-Project-/blob/e5f5019e666b841dd796da3e4625540680b17c95/Q3%20pivot%20table%20E.png)
 
 
-#### _Question #4: What are the top 3 cheapest regions in California to purchase a home with an income under $75,000?_
+#### _Question #4: What is the average qualifying income in the state of California? In which regions/counties can one afford a home with the average qualifying income?_
 #### Step-by-step answer:
 
 1. 
