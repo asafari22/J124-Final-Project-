@@ -139,7 +139,11 @@ To find the county/region that requires the highest qualifiying income, simply c
 1. Keep the same steps as above and add 'Minimum Qualifying Income' to **Filters** and change the status to **'Value is greater than or equal to'** and then enter 89,656.
 2. Add 'County' to **Rows**
 
+![Q4 screen shot C](https://github.com/asafari22/J124-Final-Project-/blob/0da3d49587273edbfa8a15c463889c613383b5ce/Q4%20screen%20shot%20C.png)
 
+**Next, in the pivot table, it is clear which regions/counties can afford a home with a qualifiying income greater than or equal to $89,656**
+
+![Q4 screen shot D](
 
 
 
